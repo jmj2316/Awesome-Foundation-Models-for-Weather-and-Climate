@@ -33,7 +33,7 @@ ___
 |FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead|*arXiv* |2023|[[\[paper\]](https://arxiv.org/abs/2304.02948)|
 |FuXi: A cascade machine learning forecasting system for 15-day global weather forecast|*arXiv* |2023|[[\[paper\]](https://arxiv.org/abs/2306.12873) [\[code\]](https://github.com/tpys/FuXi)|
 | OceanGPT: A Large Language Model for Ocean Science Tasks  | *arXiv*   | 2023     | [\[paper\]](https://arxiv.org/abs/2310.02031) [\[code\]](https://huggingface.co/zjunlp/OceanGPT-7b)  |
-
+| KARINA: An Efficient Deep Learning Model for Global Weather Forecast  | *arXiv*   | 2024     | [\[paper\]](https://arxiv.org/abs/2403.10555) [\[code\]](https://github.com/jmj2316/KARINA)  |
 
 ---
   
